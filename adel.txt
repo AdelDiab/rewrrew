@@ -1,3 +1,10 @@
 hello my team 
+<<<<<<< HEAD
 this is adel talking 
 main branch 
+=======
+this is adel talking
+
+
+branch f1 
+>>>>>>> f1
